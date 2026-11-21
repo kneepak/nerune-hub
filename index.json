@@ -1,0 +1,25 @@
+{
+  "format": "nerune-marketplace",
+  "version": 1,
+  "packages": [
+    {
+      "packageId": "community.nerune.document-draft-review",
+      "title": "문서 초안과 독립 검토 · 공유 예제",
+      "description": "초안을 작성한 뒤 검토 의견을 반영해 저장할 문서를 만듭니다.",
+      "publisher": "Nerune",
+      "version": "1.0.0",
+      "license": "MIT",
+      "category": "문서",
+      "kind": "template",
+      "setup": "ready",
+      "packageUrl": "kneepak/nerune-hub/releases/download/harness-v1.0.0/document-draft-review.nworker",
+      "digest": "f538b425e8e714f5b5c7a02ae66dde34b0a92e3ccc6ddde979050304b9cd3d8f",
+      "publishedAt": "2026-11-21T00:00:00Z",
+      "updatedAt": "2026-11-21T00:00:00Z",
+      "example": {
+        "input": "새 서비스의 환영 문구를 세 문장으로 작성하세요. 인사, 처음 할 일, 도움받는 방법을 문장마다 하나씩 넣으세요.",
+        "output": "환영합니다. 먼저 새 프로젝트를 열어 주세요. 도움이 필요하면 시작 안내를 열어 주세요."
+      }
+    }
+  ]
+}
